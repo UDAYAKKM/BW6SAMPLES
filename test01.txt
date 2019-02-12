@@ -1,3 +1,4 @@
 test01 file
 content here
 added new line
+added third line
